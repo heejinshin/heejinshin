@@ -1,10 +1,11 @@
 
 <h1 align> Hi👋 This is HeejinShin. </h1>
-***
+---
 contact to 📨 heejinshin02@gmail.com
 read more 👩 (not yet)
-***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejinshin&layout=compact&theme=본인이선택한테마명&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejinshin)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
