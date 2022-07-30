@@ -1,7 +1,7 @@
 
-<h1 align> Hi👋 This is HeejinShin. </h1>
+<h1 align> Hi👋 This is HeejinShin. </h1> <br>
 - - - 
-contact to 📨 heejinshin02@gmail.com
+contact to 📨 heejinshin02@gmail.com <br>
 read more 👩 (not yet)
 - - -
 
