@@ -1,5 +1,5 @@
 
-<h1 align> Hi👋 This is HeejinShin. </h1> <br>
+<h1 align> Introduction of Page </h1> <br>
 *** <br>
 contact to 📨 heejinshin02@gmail.com <br>
 read more 👩 (not yet) <br>
