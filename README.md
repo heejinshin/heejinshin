@@ -2,7 +2,7 @@
 <h1 align> Introduction of Page </h1> <br>
 *** <br>
 contact to 📨 heejinshin02@gmail.com <br>
-read more 👩 (not yet) <br>
+read more 👩 https://lynn1602.tistory.com <br>
 ***
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heejinshin)](https://github.com/anuraghazra/github-readme-stats)
