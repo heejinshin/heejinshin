@@ -23,6 +23,6 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-- 🌱 I’m currently learning Flutter App and Web Backend
+- 🌱 I’m currently learning about Flutter App and Web Backend
 - 👯 I’m looking to collaborate on making Appication based on AI 
 - 📫 How to reach me: heejinshin02@gmail.com
