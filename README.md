@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
 <img src="https://img.shields.io/badge/Go-33FFFF?style=for-the-
-badge&logo=Go&logoColor=white"/></a>
+badge&logo=Go&logoColor=white"/></image>
 
 
 <!-- sns 주소 링크  -->
