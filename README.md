@@ -8,14 +8,9 @@ read more 👩 https://lynn1602.tistory.com <br>
 
 
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheejinshin&count_bg=%2379C83D&title_bg=%23F5B217&icon=amazonaws.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
-<img src="https://img.shields.io/badge/Go-색상코드?style=flat-square&logo=Go&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Go-33FFFF?style=for-the-badge&logo=Go&logoColor=white"/></a>
 
 
 <!-- sns 주소 링크  -->
