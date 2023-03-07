@@ -24,5 +24,4 @@
 </a>
 
 - 🌱 I’m currently learning about Flutter App and Web Backend
-- 👯 I’m looking to collaborate on making Appication based on AI 
 - 📫 How to reach me: heejinshin02@gmail.com
