@@ -23,5 +23,5 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-- 🌱 I’m currently learning about Flutter App and Web Backend
+- 🌱 I’m currently learning about Gen AI
 - 📫 How to reach me: heejinshin02@gmail.com
