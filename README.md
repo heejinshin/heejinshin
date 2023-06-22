@@ -23,5 +23,5 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-- 🌱 I’m currently learning about Gen AI
+- 🌱 I’m currently learning about Java Web Servlet
 - 📫 How to reach me: heejinshin02@gmail.com
